@@ -1,0 +1,6 @@
+{
+  "name": "Music Memory Engine",
+  "description": "An intelligent music recommendation system using graph-based similarity, sliding windows for behavioral tracking, and weighted preference scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
